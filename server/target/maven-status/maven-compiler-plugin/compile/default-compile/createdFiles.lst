@@ -1,0 +1,4 @@
+com\gl\software\App.class
+com\gl\software\server\Hello.class
+com\gl\software\server\impl\HelloImpl.class
+com\gl\software\Activator.class

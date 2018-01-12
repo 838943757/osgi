@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1515749321165
+Build-Jdk: 1.8.0_151
+Built-By: Administrator
+Bundle-Activator: com.gl.software.Activator
+Bundle-ManifestVersion: 2
+Bundle-Name: server
+Bundle-SymbolicName: com.gl.software.server
+Bundle-Version: 1.0.0.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Export-Package: com.gl.software.server;version="1.0.0.SNAPSHOT"
+Import-Package: org.osgi.framework;version="[1.8,2)"
+Tool: Bnd-2.1.0.20130426-122213

@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1515749322487
+Build-Jdk: 1.8.0_151
+Built-By: Administrator
+Bundle-Activator: com.gl.software.Activator
+Bundle-ManifestVersion: 2
+Bundle-Name: client
+Bundle-SymbolicName: com.gl.software.client
+Bundle-Version: 1.0.0.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Import-Package: org.osgi.framework;version="[1.7,2)",com.gl.software.ser
+ ver;version="[1.0,2)"
+Tool: Bnd-2.1.0.20130426-122213

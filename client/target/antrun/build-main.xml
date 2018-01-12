@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <echo message="********************copy profile propertie file *************************"/>
+  <copy todir="D:/JAVA_PROJECTS/osgi/bundle" overwrite="true">
+    <fileset dir="D:\JAVA_PROJECTS\osgi\client\target" erroronmissingdir="false">
+      <include name="*.jar"/>
+    </fileset>
+  </copy>
+</target>
+</project>
